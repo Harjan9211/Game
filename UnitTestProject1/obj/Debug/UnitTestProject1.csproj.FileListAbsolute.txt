@@ -1,0 +1,21 @@
+F:\Game-master\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Game-master\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Game-master\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Game-master\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\Game-master\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\Game-master\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Game-master\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Game-master\UnitTestProject1\bin\Debug\Shooting Game.exe
+F:\Game-master\UnitTestProject1\bin\Debug\Mole Shooter.exe
+F:\Game-master\UnitTestProject1\bin\Debug\Shooting Game.pdb
+F:\Game-master\UnitTestProject1\bin\Debug\Shooting Game.exe.config
+F:\Game-master\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Game-master\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Game-master\UnitTestProject1\bin\Debug\Mole Shooter.pdb
+F:\Game-master\UnitTestProject1\bin\Debug\Mole Shooter.exe.config
+F:\Game-master\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+F:\Game-master\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\Game-master\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+F:\Game-master\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\Game-master\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\Game-master\UnitTestProject1\bin\Debug\Resources\Mole1.png
